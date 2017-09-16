@@ -1,0 +1,22 @@
+{
+  "name": "trytest01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trytest01.spec.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/58160187/trytest01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/58160187/trytest01/issues"
+  },
+  "homepage": "https://github.com/58160187/trytest01#readme",
+  "devDependencies": {
+    "jest": "^21.1.0"
+  }
+}
